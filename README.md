@@ -12,7 +12,7 @@ Utilizando tópicos como
 
 El programa cumple con lo requerido por el curso , se seguira trabajando para mejorar las funcionalidades del mismo 
 
-![badge literalura](https://github.com/user-attachments/assets/8d773379-ca2b-48c1-9ed5-092ea25ab4b8)
+
 
 
 
